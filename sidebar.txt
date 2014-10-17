@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mfb:home|Door43 (mfb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mfb|d43-mfb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mfb/archive/master.zip|d43-mfb.zip]]
+
+**Recent Changes**
+{{changes>ns = mfb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mfb|Ethnologue data]]
+
